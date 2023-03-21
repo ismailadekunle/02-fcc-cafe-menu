@@ -1,10 +1,8 @@
 # FCC CAFE MENU
 
-> A design of a cafe menu webpage using HTML5 & CSS.
+> A menu page for a cafe webpage using CSS to set the color, font, size, and other aspects of HTML elements.
 
 ![screenshot](./app_screenshot.png)
-
-Additional description of the project and its features.
 
 ## Built With
 
@@ -12,10 +10,9 @@ Additional description of the project and its features.
   - `h1`, `h2`, `section`,
   - `div`, `img`, `footer`, `article`.
 - CSS properties
-  - CSS Variables for reusable CSS values,
-  - CSS Media Query for page responsiveness using `@media` rule,
-  - CSS Positioning,
-  - CSS Background for page aesthetic using `background-color`, `background-image`, ``.
+  - CSS Background for page aesthetic using `background-color`, `background-image`.
+  - CSS Typography properties `font-size`, `font-style`, `font-family`, `text-align`, etc
+  - CSS Box Model prperties `padding`, `margin`, `width` etc
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
@@ -78,14 +75,10 @@ yarn hint
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
-
-* - Github: [@ismailadekunle](https://github.com/ismailadekunle)
-* - Twitter: [@ismailadekunle](https://twitter.com/ismailadekunle)
-* - Linkedin: [@ismailAdekunleJIMOH](https://www.linkedin.com/in/ismailAdekunleJIMOH/)
-* - Freecodecamp: [@ismailadekunle](https://www.freecodecamp.org/ismailadekunle)
+- Github: [@ismailadekunle](https://github.com/ismailadekunle)
+- Twitter: [@ismailadekunle](https://twitter.com/ismailadekunle)
+- Linkedin: [@ismailAdekunleJIMOH](https://www.linkedin.com/in/ismailAdekunleJIMOH/)
+- Freecodecamp: [@ismailadekunle](https://www.freecodecamp.org/ismailadekunle)
 
 ## 🤝 Contributing
 
